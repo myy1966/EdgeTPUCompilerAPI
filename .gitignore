@@ -1,1 +1,3 @@
 *.tflite
+
+.DS_Store

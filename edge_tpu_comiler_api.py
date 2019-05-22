@@ -2,7 +2,7 @@
 edge_tpu_compiler_api
 
 This module implements the Edge TPU compiler API.
-:copyright: (c) 2018 by myy1966.
+:copyright: (c) 2019 by myy1966.
 :license: BSD3, see LICENSE for more details.
 """
 
